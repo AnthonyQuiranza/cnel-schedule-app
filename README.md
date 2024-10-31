@@ -13,10 +13,8 @@ Aplicación web para consultar los **horarios de cortes de luz** programados por
  
 ## Demo 🖥️ 
  
-[**Ver Demo en Vivo**](https://tu-dominio.com) 
- 
-> *Nota:* Reemplaza `https://tu-dominio.com` con la URL real donde estará alojada la aplicación. 
- 
+[**Ver Demo en Vivo**](consultar-cortes.netlify.com) 
+  
 ## Tecnologías Utilizadas 🛠️ 
  
 - **React** 
@@ -31,7 +29,7 @@ Aplicación web para consultar los **horarios de cortes de luz** programados por
  
    bash
 
-   git clone https://github.com/AnthonyQuiranza/cnel-cortes-de-luz.git
+   git clone https://github.com/AnthonyQuiranza/cnel-schedule-app
 
    
  
@@ -39,7 +37,7 @@ Aplicación web para consultar los **horarios de cortes de luz** programados por
  
   bash
 
-   cd cnel-cortes-de-luz
+   cd cnel-schedule-app
 
    
  
