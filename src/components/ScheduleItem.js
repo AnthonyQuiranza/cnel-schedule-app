@@ -6,7 +6,6 @@ import {
   Typography,
   Button,
   CardActions,
-  Tooltip,
 } from '@mui/material';
 import ShareIcon from '@mui/icons-material/Share';
 import EventIcon from '@mui/icons-material/Event';
